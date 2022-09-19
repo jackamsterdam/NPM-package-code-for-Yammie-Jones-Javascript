@@ -2,7 +2,7 @@
 
 CLI Commands for connecting to a server, which gives you last day's orders and option to add an order.
 
-Please go here: https://www.npmjs.com/package/typescript-for-nodejs-template-by-captain-jack
+Please go here: https://www.npmjs.com/package/yammie-restaurant-backend-for-jones-by-jack-in-javascript
 
 *If you git clone this respository you will need to connect your own database. If you donwload the package from npm a database is already connected. 
 
