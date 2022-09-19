@@ -2,6 +2,11 @@
 
 CLI Commands for connecting to a server, which gives you last day's orders and option to add an order.
 
+Please go here: https://www.npmjs.com/package/typescript-for-nodejs-template-by-captain-jack
+
+*If you git clone this respository you will need to connect your own database. If you donwload the package from npm a database is already connected. 
+
+
 ## Installation:
 
 This is a global cli package so use flag -g
