@@ -1,0 +1,281 @@
+
+
+info	2022-09-15 06:45:46	GET Request to /api/orders/
+info	2022-09-15 06:46:07	GET Request to /api/productssss
+info	2022-09-15 06:46:07	Route not found
+info	2022-09-15 06:47:37	GET Request to /api/productssss
+info	2022-09-15 06:47:37	Route not found
+info	2022-09-15 06:51:30	GET Request to /api/productssss
+info	2022-09-15 06:51:30	Route not found
+info	2022-09-15 06:54:41	GET Request to /api/ordersssssss
+info	2022-09-15 06:54:41	Route not found
+info	2022-09-15 06:55:06	GET Request to /api/ordersssssss
+info	2022-09-15 06:55:06	Route not found
+info	2022-09-15 07:01:19	POST Request to /api/orders/
+info	2022-09-15 07:01:19	"orderDate" must be in ISO 8601 date format
+info	2022-09-15 07:02:38	POST Request to /api/orders/
+info	2022-09-15 07:03:59	POST Request to /api/orders/
+info	2022-09-15 07:03:59	"price" must be a number. "orderDate" must be in ISO 8601 date format
+info	2022-09-15 07:04:17	POST Request to /api/orders/
+info	2022-09-15 07:04:17	"price" must be a number. "orderDate" must be in ISO 8601 date format. "customerName" must be a string. "deliveryAddress" must be a string
+info	2022-09-15 07:16:46	GET Request to /api/orders/
+info	2022-09-15 07:19:39	POST Request to /api/orders/
+info	2022-09-15 07:19:39	"orderDate" must be in ISO 8601 date format
+info	2022-09-15 07:20:18	POST Request to /api/orders/
+info	2022-09-15 07:22:45	GET Request to /api/orderssssssssssssssssssss
+info	2022-09-15 07:22:45	Route not found
+info	2022-09-15 07:22:49	POST Request to /api/orders/
+info	2022-09-15 07:22:49	"price" must be a number. "orderDate" must be in ISO 8601 date format. "customerName" must be a string. "deliveryAddress" must be a string
+info	2022-09-15 07:23:50	GET Request to /api/orders/
+info	2022-09-15 07:29:41	GET Request to /api/orders/
+info	2022-09-15 07:31:09	GET Request to /api/orders/
+info	2022-09-15 07:32:17	GET Request to /api/orders/
+info	2022-09-15 07:32:18	No orders in the last 24 hours
+info	2022-09-15 07:36:27	GET Request to /api/orders/
+info	2022-09-15 07:36:27	No orders in the last 24 hours
+info	2022-09-15 07:36:56	GET Request to /api/orders/
+info	2022-09-15 07:36:56	No orders in the last 24 hours
+info	2022-09-15 07:53:24	GET Request to /api/orders/
+info	2022-09-15 07:53:26	GET Request to /api/orders/
+info	2022-09-15 07:53:27	GET Request to /api/orders/
+info	2022-09-15 07:53:29	GET Request to /api/orders/
+info	2022-09-15 07:53:47	GET Request to /api/orders/
+info	2022-09-15 07:53:52	GET Request to /api/orders/
+info	2022-09-15 07:54:32	GET Request to /api/orders/
+info	2022-09-15 07:54:34	GET Request to /api/orders/
+info	2022-09-15 07:55:24	GET Request to /api/orders/
+info	2022-09-15 07:55:25	GET Request to /api/orders/
+info	2022-09-15 07:55:30	GET Request to /api/ordersssssss
+info	2022-09-15 07:55:30	Route not found
+info	2022-09-15 07:55:31	GET Request to /api/ordersssssss
+info	2022-09-15 07:55:31	Route not found
+info	2022-09-15 07:55:32	GET Request to /api/ordersssssss
+info	2022-09-15 07:55:32	Route not found
+info	2022-09-15 07:55:32	GET Request to /api/ordersssssss
+info	2022-09-15 07:55:32	Route not found
+info	2022-09-15 07:55:34	GET Request to /api/ordersssssss
+info	2022-09-15 07:55:34	Route not found
+info	2022-09-15 07:55:34	GET Request to /api/ordersssssss
+info	2022-09-15 07:55:34	Route not found
+info	2022-09-15 07:55:55	GET Request to /api/ordersssssss
+info	2022-09-15 07:55:55	Route not found
+info	2022-09-15 07:55:56	GET Request to /favicon.ico
+info	2022-09-15 07:55:56	Route not found
+info	2022-09-15 07:55:57	GET Request to /favicon.ico
+info	2022-09-15 07:55:57	Route not found
+info	2022-09-15 07:56:29	GET Request to /api/ordersssssss
+info	2022-09-15 07:56:29	Route not found
+info	2022-09-15 07:56:30	GET Request to /favicon.ico
+info	2022-09-15 07:56:30	Route not found
+info	2022-09-15 07:56:31	GET Request to /favicon.ico
+info	2022-09-15 07:56:31	Route not found
+info	2022-09-15 07:56:33	GET Request to /api/ordersssssss
+info	2022-09-15 07:56:33	Route not found
+info	2022-09-15 07:56:33	GET Request to /favicon.ico
+info	2022-09-15 07:56:33	Route not found
+info	2022-09-15 07:56:35	GET Request to /favicon.ico
+info	2022-09-15 07:56:35	Route not found
+info	2022-09-15 07:56:37	GET Request to /api/ordersssssss
+info	2022-09-15 07:56:37	Route not found
+info	2022-09-15 07:56:37	GET Request to /favicon.ico
+info	2022-09-15 07:56:37	Route not found
+info	2022-09-15 07:56:38	GET Request to /favicon.ico
+info	2022-09-15 07:56:38	Route not found
+info	2022-09-15 07:56:40	GET Request to /favicon.ico
+info	2022-09-15 07:56:40	Route not found
+info	2022-09-15 09:21:25	POST Request to /api/orders/
+info	2022-09-15 09:21:25	"orderDate" must be greater than "2022-09-15T18:21:13.726Z"
+info	2022-09-15 09:57:03	POST Request to /api/orders/
+info	2022-09-15 09:57:03	"price" must be a number. "orderDate" must be in ISO 8601 date format. "customerName" must be a string. "deliveryAddress" must be a string
+info	2022-09-15 09:57:20	POST Request to /api/orders/
+error	2022-09-15 09:57:20	ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+info	2022-09-15 09:58:35	POST Request to /api/orders/
+info	2022-09-15 09:58:35	"price" must be a number. "orderDate" must be in ISO 8601 date format. "customerName" must be a string. "deliveryAddress" must be a string
+info	2022-09-15 09:58:37	POST Request to /api/orders/
+info	2022-09-15 09:58:37	"price" must be a number. "orderDate" must be in ISO 8601 date format. "customerName" must be a string. "deliveryAddress" must be a string
+info	2022-09-15 09:58:38	POST Request to /api/orders/
+info	2022-09-15 09:58:38	"price" must be a number. "orderDate" must be in ISO 8601 date format. "customerName" must be a string. "deliveryAddress" must be a string
+info	2022-09-15 09:58:52	POST Request to /api/orders/
+info	2022-09-15 09:58:52	"price" must be a number. "orderDate" must be in ISO 8601 date format. "customerName" must be a string. "deliveryAddress" must be a string
+info	2022-09-15 09:59:23	POST Request to /api/orders/
+info	2022-09-15 09:59:23	"price" must be a number. "orderDate" must be in ISO 8601 date format. "customerName" must be a string. "deliveryAddress" must be a string
+info	2022-09-15 09:59:29	POST Request to /api/orders/
+error	2022-09-15 09:59:29	ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+info	2022-09-15 10:00:19	GET Request to /api/orders/
+info	2022-09-15 10:00:34	POST Request to /api/orders/
+info	2022-09-15 10:00:34	"price" must be a number. "orderDate" must be in ISO 8601 date format. "customerName" must be a string. "deliveryAddress" must be a string. "phone" must be a string
+info	2022-09-15 10:00:49	POST Request to /api/orders/
+info	2022-09-15 10:00:49	"price" must be a number. "orderDate" must be in ISO 8601 date format. "customerName" must be a string. "deliveryAddress" must be a string. "phone" must be a string
+info	2022-09-16 12:01:54	GET Request to /api/orders/
+info	2022-09-16 10:42:40	GET Request to /api/orders/
+info	2022-09-16 11:26:09	GET Request to /book
+info	2022-09-16 11:26:09	Route not found
+info	2022-09-16 11:28:23	GET Request to /book
+info	2022-09-16 11:28:23	Route not found
+info	2022-09-16 11:29:03	GET Request to /book
+info	2022-09-16 11:29:03	Route not found
+info	2022-09-16 11:29:47	GET Request to /api/orders/
+info	2022-09-16 11:30:51	GET Request to /api/orders/
+info	2022-09-16 11:31:30	GET Request to /api/orders/
+info	2022-09-16 11:32:25	GET Request to /orders/
+info	2022-09-16 11:32:25	Route not found
+info	2022-09-16 11:33:47	GET Request to /api/orders/
+info	2022-09-16 11:36:30	GET Request to /api/orders/
+info	2022-09-16 11:37:12	GET Request to /api/orders/
+info	2022-09-16 11:38:24	GET Request to /api/orders/
+info	2022-09-16 11:42:32	GET Request to /api/orders/
+info	2022-09-16 11:42:32	POST Request to /book
+info	2022-09-16 11:42:32	Route not found
+info	2022-09-16 11:45:25	GET Request to /api/orders/
+info	2022-09-16 11:45:25	POST Request to /api/orders
+info	2022-09-16 11:45:25	"orderDate" must be greater than "2022-09-16T08:45:24.826Z". "customerName" is required
+info	2022-09-16 11:46:11	GET Request to /api/orders/
+info	2022-09-16 11:46:11	POST Request to /api/orders/
+info	2022-09-16 11:46:11	"orderDate" must be greater than "2022-09-16T08:46:10.798Z". "customerName" is required
+info	2022-09-16 11:46:46	GET Request to /api/orders/
+info	2022-09-16 11:46:46	POST Request to /api/orders/
+info	2022-09-16 11:46:46	"orderDate" must be greater than "2022-09-16T08:46:45.510Z"
+info	2022-09-16 11:47:44	GET Request to /api/orders/
+info	2022-09-16 11:47:44	POST Request to /api/orders/
+info	2022-09-16 11:48:15	GET Request to /api/orders/
+info	2022-09-16 11:48:15	POST Request to /api/orders/
+info	2022-09-16 11:49:32	GET Request to /api/orders/
+info	2022-09-16 11:49:32	POST Request to /api/orders/
+info	2022-09-16 11:50:05	GET Request to /api/orders/
+info	2022-09-16 11:50:05	POST Request to /api/orders/
+info	2022-09-16 11:50:33	GET Request to /api/orders/
+info	2022-09-16 11:50:33	POST Request to /api/orders/
+info	2022-09-16 11:51:18	GET Request to /api/orders/
+info	2022-09-16 11:51:19	POST Request to /api/orders/
+info	2022-09-16 12:05:42	GET Request to /api/orders/
+info	2022-09-16 12:05:42	POST Request to /api/orders/
+info	2022-09-16 12:06:17	GET Request to /api/orders/
+info	2022-09-16 12:06:18	POST Request to /api/orders/
+info	2022-09-16 12:06:18	"customerName" is required
+info	2022-09-16 12:06:43	GET Request to /api/orders/
+info	2022-09-16 12:06:43	POST Request to /api/orders/
+info	2022-09-16 12:06:43	"customerName" is required
+info	2022-09-16 12:07:27	GET Request to /api/orders/
+info	2022-09-16 12:07:27	POST Request to /api/orders/
+info	2022-09-16 12:08:18	GET Request to /api/orders/
+info	2022-09-16 12:08:18	POST Request to /api/orders/
+info	2022-09-16 12:08:46	POST Request to /api/orders/
+info	2022-09-16 12:09:31	POST Request to /api/orders/
+info	2022-09-16 12:10:08	POST Request to /api/orders/
+info	2022-09-16 12:11:09	POST Request to /api/orders/
+info	2022-09-16 12:14:11	GET Request to /api/orders/
+info	2022-09-16 12:14:11	POST Request to /api/orders/
+info	2022-09-16 12:14:31	GET Request to /api/orders/
+info	2022-09-16 12:14:31	POST Request to /api/orders/
+info	2022-09-16 12:15:27	GET Request to /api/orders/
+info	2022-09-16 12:15:27	POST Request to /api/orders/
+info	2022-09-16 12:16:43	GET Request to /api/orderssssssssssssssssssssssss/
+info	2022-09-16 12:16:43	Route not found
+info	2022-09-16 12:17:07	GET Request to /api/orderssssssssssssssssssssssss/
+info	2022-09-16 12:17:07	Route not found
+info	2022-09-16 12:18:25	GET Request to /api/orders/
+info	2022-09-16 12:19:05	GET Request to /api/orderssss/
+info	2022-09-16 12:19:05	Route not found
+info	2022-09-16 12:20:02	GET Request to /api/orderssss/
+info	2022-09-16 12:20:02	Route not found
+info	2022-09-16 12:20:24	GET Request to /api/orderssss/
+info	2022-09-16 12:20:24	Route not found
+info	2022-09-16 12:21:04	GET Request to /api/orders/
+info	2022-09-16 12:21:45	GET Request to /api/ordersssssssssssssssssss/
+info	2022-09-16 12:21:45	Route not found
+info	2022-09-16 12:23:24	GET Request to /api/ordersssssssssssssssssss/
+info	2022-09-16 12:23:24	Route not found
+info	2022-09-16 12:23:24	POST Request to /api/orders/
+info	2022-09-16 12:23:24	"customerName" is required
+info	2022-09-16 12:23:53	GET Request to /api/ordersssssssssssssssssss/
+info	2022-09-16 12:23:53	Route not found
+info	2022-09-16 12:23:53	POST Request to /api/orders/
+info	2022-09-16 12:23:53	"customerName" is required
+info	2022-09-16 12:24:24	GET Request to /api/ordersssssssssssssssssss/
+info	2022-09-16 12:24:24	Route not found
+info	2022-09-16 12:24:25	POST Request to /api/orders/
+info	2022-09-16 12:24:25	"customerName" is required
+info	2022-09-16 12:24:53	GET Request to /api/ordersssssssssssssssssss/
+info	2022-09-16 12:24:53	Route not found
+info	2022-09-16 12:24:53	POST Request to /api/orders/
+info	2022-09-16 12:24:53	"customerName" is required
+info	2022-09-16 12:25:13	GET Request to /api/ordersssssssssssssssssss/
+info	2022-09-16 12:25:13	Route not found
+info	2022-09-16 12:25:14	POST Request to /api/orders/
+info	2022-09-16 12:25:14	"customerName" is required
+info	2022-09-16 12:25:30	GET Request to /api/ordersssssssssssssssssss/
+info	2022-09-16 12:25:30	Route not found
+info	2022-09-16 12:25:30	POST Request to /api/orders/
+info	2022-09-16 12:25:30	"customerName" is required
+info	2022-09-16 12:26:05	GET Request to /api/ordersssssssssssssssssss/
+info	2022-09-16 12:26:05	Route not found
+info	2022-09-16 12:26:05	POST Request to /api/orders/
+info	2022-09-16 12:26:05	"customerName" is required
+info	2022-09-16 12:27:06	GET Request to /api/ordersssssssssssssssssss/
+info	2022-09-16 12:27:06	Route not found
+info	2022-09-16 12:27:06	POST Request to /api/orders/
+info	2022-09-16 12:27:06	"customerName" is required
+info	2022-09-16 12:37:19	GET Request to /api/orders/
+info	2022-09-16 12:37:19	POST Request to /api/orders/
+info	2022-09-16 12:37:19	GET Request to /api/ordersssssssssssssssssss/
+info	2022-09-16 12:37:19	Route not found
+info	2022-09-16 12:37:19	POST Request to /api/orders/
+info	2022-09-16 12:37:19	"customerName" is required
+info	2022-09-16 12:37:47	GET Request to /api/orders/
+info	2022-09-16 12:37:47	POST Request to /api/orders/
+info	2022-09-16 12:37:47	GET Request to /api/ordersssssssssssssssssss/
+info	2022-09-16 12:37:47	Route not found
+info	2022-09-16 12:37:47	POST Request to /api/orders/
+info	2022-09-16 12:37:47	"customerName" is required
+info	2022-09-16 12:41:04	GET Request to /api/orders/
+info	2022-09-16 12:41:04	POST Request to /api/orders/
+info	2022-09-16 12:41:05	GET Request to /api/ordersssssssssssssssssss/
+info	2022-09-16 12:41:05	Route not found
+info	2022-09-16 12:41:05	POST Request to /api/orders/
+info	2022-09-16 12:41:05	"customerName" is required
+info	2022-09-16 12:41:53	GET Request to /api/orders/
+info	2022-09-16 12:41:53	POST Request to /api/orders/
+info	2022-09-16 12:41:54	GET Request to /api/ordersssssssssssssssssss/
+info	2022-09-16 12:41:54	Route not found
+info	2022-09-16 12:41:54	POST Request to /api/orders/
+info	2022-09-16 12:41:54	"customerName" is required
+info	2022-09-16 01:32:04	GET Request to /api/orders/
+info	2022-09-16 01:35:37	POST Request to /api/orders/
+info	2022-09-16 01:36:03	POST Request to /api/orders/
+info	2022-09-16 01:36:26	POST Request to /api/orders/
+info	2022-09-16 01:39:32	POST Request to /api/orders/
+info	2022-09-16 01:39:59	POST Request to /api/orders/
+info	2022-09-16 01:40:23	POST Request to /api/orders/
+info	2022-09-16 01:43:04	POST Request to /api/orders/
+info	2022-09-16 01:43:27	POST Request to /api/orders/
+info	2022-09-16 01:44:42	POST Request to /api/orders/
+info	2022-09-16 01:46:37	POST Request to /api/orders/
+info	2022-09-16 01:48:52	GET Request to /api/orders/
+info	2022-09-16 01:48:52	POST Request to /api/orders/
+info	2022-09-16 01:48:52	GET Request to /api/ordersssssssssssssssssss/
+info	2022-09-16 01:48:52	Route not found
+info	2022-09-16 01:48:52	POST Request to /api/orders/
+info	2022-09-16 01:48:52	"customerName" is required
+info	2022-09-16 02:28:41	GET Request to /api/orders/
+info	2022-09-16 02:28:51	POST Request to /api/orders/
+info	2022-09-16 02:29:14	POST Request to /api/orders/
+info	2022-09-16 02:29:30	POST Request to /api/orders/
+info	2022-09-16 02:29:34	POST Request to /api/orders/
+info	2022-09-16 02:29:59	GET Request to /api/orderssssssssssssssssssss
+info	2022-09-16 02:29:59	Route not found
+info	2022-09-16 02:30:02	POST Request to /api/orders/
+info	2022-09-16 02:30:02	"price" must be a number. "orderDate" must be in ISO 8601 date format. "customerName" must be a string. "deliveryAddress" must be a string. "phone" must be a string
+info	2022-09-16 02:30:04	POST Request to /api/orders/
+info	2022-09-16 02:30:04	"price" must be a number. "orderDate" must be in ISO 8601 date format. "customerName" must be a string. "deliveryAddress" must be a string. "phone" must be a string
+info	2022-09-16 02:32:30	GET Request to /api/orders/
+info	2022-09-16 02:32:30	POST Request to /api/orders/
+info	2022-09-16 02:32:30	GET Request to /api/ordersssssssssssssssssss/
+info	2022-09-16 02:32:30	Route not found
+info	2022-09-16 02:32:30	POST Request to /api/orders/
+info	2022-09-16 02:32:30	"customerName" is required
+info	2022-09-16 02:32:59	GET Request to /api/orders/
+info	2022-09-16 02:32:59	POST Request to /api/orders/
+info	2022-09-16 02:32:59	GET Request to /api/ordersssssssssssssssssss/
+info	2022-09-16 02:32:59	Route not found
+info	2022-09-16 02:32:59	POST Request to /api/orders/
+info	2022-09-16 02:32:59	"customerName" is required
