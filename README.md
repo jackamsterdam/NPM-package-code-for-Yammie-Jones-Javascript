@@ -2,9 +2,11 @@
 
 CLI Commands for connecting to a server, which gives you last day's orders and option to add an order.
 
+This repository shows how I made a global package in NPM. 
+
 Please go here: https://www.npmjs.com/package/yammie-restaurant-backend-for-jones-by-jack-in-javascript
 
-*If you git clone this respository you will need to connect your own database. If you donwload the package from npm a database is already connected. 
+*If you git clone this respository you will need to connect your own database. If you download the package from NPM a database is already connected. 
 
 
 ## Installation:
