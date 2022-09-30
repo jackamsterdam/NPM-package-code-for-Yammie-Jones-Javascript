@@ -8,6 +8,7 @@ Please go here: https://www.npmjs.com/package/yammie-restaurant-backend-for-jone
 
 *If you git clone this respository you will need to connect your own database. If you download the package from NPM a database is already connected. 
 
+If you had issues running the program or you enjoyed my project please contact me on Linkedin: https://www.linkedin.com/in/jack-amsterdam/
 
 ## Installation:
 
